@@ -20,7 +20,7 @@
   ### Linux/MacOS:<br>
   - Just type the server ip in ```-ip=``` and server port in ```-port=```
   ```bash
-  main -ip=hivebedrock.network -port=19132
+  ./main -ip=hivebedrock.network -port=19132
   ```
   - Copy the code that appears in the console
   - go to <a href="https://www.microsoft.com/link">microsoft.com/link</a> and paste your code, then sign in to your microsoft account
